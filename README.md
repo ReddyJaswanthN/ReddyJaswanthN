@@ -1,7 +1,9 @@
 ##  Hello, I'm Jaswanth Reddy Narala!
+
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in cloud computing and data engineer. I have extensive experience working with technologies like Azure, SQL,PowerBi, Tableau, and more. Here's a little bit about me.
 
 **Technical Skills**
+
 Programming Languages: Python, R, JavaScript, SQL, Object Oriented Programming 
 Web Technologies: HTML 
 Databases: MySQL 
@@ -14,14 +16,17 @@ Data Manipulation: Pandas, NumPy
 Machine Learning: Scikit-Learn, Decision Trees, Random Forest, Clustering
 
  **Education**
+ 
 Master’s Degree in Computer Science** from University of Missouri at Kansas City
 Bachelor’s Degree in Computer Science and Engineering from Saveetha School of Engineering
 
 **Certifications**
+
 Completed Salesforce Trailhead certification.
 
 **Work Experience**
-Cognizant Technology Solutions Pvt. Ltd                                                                                                                                                         Program Analyst                                                                                                                                
+
+Cognizant Technology Solutions Pvt. Ltd                                                                                                                                      Program Analyst                                                                                                                                
 Project Name: Pure ILI Claims Vantage         
 
 June 2022 – July 2023   
