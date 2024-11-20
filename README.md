@@ -17,7 +17,7 @@ Machine Learning: Scikit-Learn, Decision Trees, Random Forest, Clustering
 
  **Education**
  
-Master’s Degree in Computer Science** from University of Missouri at Kansas City
+Master’s Degree in Computer Science from University of Missouri at Kansas City
 Bachelor’s Degree in Computer Science and Engineering from Saveetha School of Engineering
 
 **Certifications**
