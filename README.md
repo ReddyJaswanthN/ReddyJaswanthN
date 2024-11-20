@@ -48,6 +48,6 @@ Applied secure multi-party computation (MPC) protocols, achieving a 25% increase
 operations across devices. 
 Engineered privacy-preserving algorithms to anonymize sensitive information, resulting reduction in potential data breaches 
 within the system. 
-Conducted rigorous testing and optimization, leading to a 50% improvement in response time for user requests while 
+Conducted rigorous testing and optimization, leading to a 50% improvement in response time for user requests while maintaining high levels of data confidentiality.
  
 
