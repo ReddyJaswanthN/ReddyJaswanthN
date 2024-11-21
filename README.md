@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in cloud computing and data engineer. I have extensive experience working with technologies like Azure, SQL,PowerBi, Tableau, and more. Here's a little bit about me.
 
-**Technical Skills**
+🛠️**Technical Skills**
 
 Programming Languages: Python, R, JavaScript, SQL, Object Oriented Programming 
 Web Technologies: HTML 
@@ -15,7 +15,7 @@ Statistical Analysis: Regression Analysis, Hypothesis Testing
 Data Manipulation: Pandas, NumPy  
 Machine Learning: Scikit-Learn, Decision Trees, Random Forest, Clustering
 
- **Education**
+ 📚**Education**
  
 Master’s Degree in Computer Science from University of Missouri at Kansas City
 Bachelor’s Degree in Computer Science and Engineering from Saveetha School of Engineering
@@ -24,7 +24,7 @@ Bachelor’s Degree in Computer Science and Engineering from Saveetha School of 
 
 Completed Salesforce Trailhead certification.
 
-**Work Experience**
+💼**Work Experience**
 
 Cognizant Technology Solutions Pvt. Ltd                                                                                                                                      Program Analyst                                                                                                                                
 Project Name: Pure ILI Claims Vantage         
@@ -33,7 +33,7 @@ June 2022 – July 2023
 Spearheaded the management of user accounts in Salesforce, ensuring optimal user access through robust profiles and 
 security settings, enhancing overall system integrity and user satisfaction. 
 
-**Projects**
+🚀**Projects**
 
 **ECommerce Application**
 
@@ -49,5 +49,8 @@ operations across devices.
 Engineered privacy-preserving algorithms to anonymize sensitive information, resulting reduction in potential data breaches 
 within the system. 
 Conducted rigorous testing and optimization, leading to a 50% improvement in response time for user requests while maintaining high levels of data confidentiality.
+
+
+
  
 
