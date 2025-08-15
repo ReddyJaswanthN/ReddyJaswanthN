@@ -25,6 +25,8 @@ Technologies: Python, SQL, Java, Django, Flask, HTML/HTML5, CSS3/CSS, JavaScript
 •	Established SQL-based data infrastructure for Redshift and warehousing solutions, supporting many high-impact BI dashboards and improving reporting accuracy.
 •	Implemented advanced data validation and cleansing techniques in healthcare analytics workflows, increasing data accuracy by 40% and enhancing downstream analytical reliability.
 •	Leveraged Git and Agile methodologies to streamline version control and collaboration, reducing deployment time while maintaining high quality code standards.
+
+
 Cognizant Technology Solutions                                                                                                                June 2022 – July 2023         Data Engineer                                                                                                                                 India                           Technologies: Apache Kafka, Java, Scala, Apache Spark, Jenkins, Docker, Kubernetes, Redis, AWS Glue, Amazon Athena, AWS (Lambda, CloudFront, CloudWatch), PostgreSQL, SQL Server, RDS, MongoDB, Azure Synapse, Apache Airflow, Splunk) 
 •	Engineered and maintained scalable real-time data pipelines using Apache Kafka, Java, Scala, and Apache Spark, reducing data processing latency and enhancing real-time analytics capabilities.
 •	Implemented and automated CI/CD pipelines with Jenkins, Docker, and Kubernetes, increasing deployment efficiency by 40% and improving application uptime across production environments.
@@ -32,6 +34,7 @@ Cognizant Technology Solutions                                                  
 •	Optimized large scale relational and NoSQL databases including PostgreSQL, SQL Server, RDS, and MongoDB, improving query performance and ensuring data accuracy for critical business systems.
 •	Delivered advanced analytics solutions using Azure Synapse, enabling stakeholders to make informed decisions through enhanced BI reporting and increasing reporting efficiency by 25%.
 •	Directed orchestration of data workflows via Apache Airflow, which improved task scheduling accuracy and reduced job failures, leading to more reliable data engineering operations.
+
 I-SPARROW                                                                                                                                 June 2020 - May 2022                Data Engineer                                                                                                        			                         India            Technologies: REST, SOAP, JSON, API, Hadoop, Hive, PL/SQL, Snowflake, Jenkins, GitHub Actions, Tableau, Power BI, Agile (SCRUM)            
 
 •	Designed and implemented REST and SOAP web services, improving data integration efficiency between systems.
